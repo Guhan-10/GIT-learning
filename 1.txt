@@ -1,2 +1,2 @@
-
+branch 2
 first line in branch 2
