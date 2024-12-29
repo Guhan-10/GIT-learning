@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-LINE IN MASTER
-=======
-HI ALL
-BRANCH 1
->>>>>>> branch1
