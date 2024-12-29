@@ -1,3 +1,2 @@
-first line in master
-first line in branch1
+
 first line in branch 2
